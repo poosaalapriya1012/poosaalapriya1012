@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poosaalapriya1012&label=Profile%20views&color=0e75b6&style=flat" alt="poosaalapriya1012" /> </p>
 
-- 🌱 I’m currently learning **Web development,Machine Learning,Data Structures and Algorithms**
+- 🌱 I’m currently learning **Web development,,Python,Machine Learning,Data Structures and Algorithms**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
